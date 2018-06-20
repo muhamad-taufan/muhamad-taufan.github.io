@@ -1,0 +1,40 @@
+#footer
+	{
+	background-color:#F9F9F9;
+	padding:1%;
+	}
+	
+	
+.cSosmed
+	{
+		
+		float:right;
+		width:auto;
+		height:auto;
+		border-radius:100%;
+		margin:1%;
+		background-color:#999999;
+		overflow:hidden;
+		
+	}
+	
+	
+.rUP
+	{
+		float:right;
+		width:5%;
+		height:auto;
+		border-radius:100%;
+		margin:5%;
+		background-color:#00A5FF;
+		position:relative;
+
+	}	
+.cos
+	{
+		color:#FFFFFF;
+	}	
+.top-foot
+	{
+		margin-top:10%;
+	}
