@@ -1,0 +1,48 @@
+html, body { height: 100%; width: 100%; margin: 0; }
+
+#officesContent
+{
+	background :#FFFFFF;
+}
+.pTeamContent
+	{
+		
+		
+		width:100%;
+		height:auto;
+		display:inline-block;
+		border-radius:9px;
+	}	
+
+
+	
+	
+.bodys
+
+{
+    /* The image used */
+    background-image: url("../image/maps.png");
+
+    /* Full height */
+    height: 400px; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	margin-top:20%;
+	margin-bottom:20%;
+}
+
+
+.descriptionOffices
+{
+	
+	margin-bottom:20%;
+	
+}
+
+.deMarker
+{
+	float:left;
+}

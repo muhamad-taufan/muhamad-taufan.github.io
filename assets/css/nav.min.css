@@ -1,0 +1,81 @@
+#bs-example-navbar-collapse-1
+{
+	background-color:#ffffff;
+	
+}
+
+
+.navbar.navbar-fixed-top .navbar-inner{
+    background-color:#ffffff;
+}
+
+
+
+.navbar-header 
+{
+	background-color:#ffffff;
+}
+
+
+
+
+.navbar-toggle
+{
+	background-color:#000000;
+}
+
+.icon-bar
+{
+	background-color:#FFFFFF;
+}
+
+.imLogo
+{
+	margin-top:30px;
+	margin-left:30px;
+	position:absolute;
+}
+
+
+.navbar-inverse 
+{
+	background-color:#B3B3B3;
+}
+
+
+
+.nav .navbar-nav>li>a.zzZ
+{
+	color:#000000 !important;
+	}
+
+
+
+.nav .navbar-nav>li a:hover{
+	 
+    color: #000000;
+    background-color:#838383;
+    }
+	
+
+{
+	color:#FFFFFF;
+	font-weight:bold;
+}
+
+
+.nav .navbar-nav>li>a.zzZ.activedS
+{
+	color:#0000ff !important;
+	}
+	
+.nav
+{
+	height:83px;
+	
+}
+
+#mMenus
+{
+	margin-top:10px
+}

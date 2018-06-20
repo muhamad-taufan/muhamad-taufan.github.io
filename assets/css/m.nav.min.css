@@ -1,0 +1,68 @@
+#bs-example-navbar-collapse-1 
+{
+	background-color:#ffffff;
+}
+
+.navbar-header 
+{
+	background-color:#ffffff;
+	min-height:60px;
+}
+
+
+
+
+.navbar-toggle
+{
+	background-color:#000000;
+}
+
+.icon-bar
+{
+	background-color:#FFFFFF;
+}
+
+.imLogo
+{
+	margin-left:2%;
+	position:absolute;
+	height:auto;
+	margin-top:10px;
+}
+
+
+.navbar-inverse 
+{
+	background-color:#B3B3B3;
+}
+
+
+
+
+
+.nav .navbar-nav>li>a.zzZ
+{
+	color:#000000 !important;
+	font-weight:bold;
+	}
+
+
+
+.nav .navbar-nav>li a:hover{
+	 
+    color: #000000;
+    background-color:#838383;
+    }
+	
+
+{
+	color:#FFFFFF;
+	font-weight:bold;
+}
+
+
+.nav .navbar-nav>li>a.zzZ.activedS
+{
+	color:#0000ff !important;
+	font-weight:bold;
+	}
